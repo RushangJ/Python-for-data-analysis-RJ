@@ -1,0 +1,18 @@
+Pandas:
+
+* Ratio scale:
+    - units are equally spaced
+    - mathematical operations of + - / * are all valid
+    - E.g. height and weight
+
+* Interval scale:
+    - Units are equally spaced, but there is no true zero
+
+* Ordinal scale:
+    - The order of the unit is important, but not evenly spacedaced.
+    - Letter grades such as A+,A are a good example
+
+* Nominal scale:
+    - Categories of data, but the categories have no order with
+      respect to one another.
+    - E.g. Teams of a sport.
